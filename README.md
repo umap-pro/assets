@@ -1,7 +1,7 @@
 ![logo_umap](https://github.com/umap-pro/assets/assets/171515055/3400267e-a24f-4982-a905-558411128644)
 
 
-
+----------
 
 
 UMAP Coin represents a revolutionary step forward in digital interaction, leveraging the power of blockchain technology to enhance augmented reality, social networking, and mapping services. 
@@ -25,3 +25,17 @@ As we move towards our goals, the roadmap lays out clear milestones, from platfo
 The use of Solana blockchain ensures that transactions are fast, secure, and cost-effective, creating a reliable foundation for the UMAP ecosystem.
 
 Join us in revolutionizing digital interaction with UMAP Coin and Umap.pro. Together, we can explore new frontiers, connect more deeply with our surroundings, and make the world a better place through innovative technology.
+
+
+-------------
+
+
+Website: [umap.pro](https://www.umap.pro)
+
+Email: contribution@umap.pro
+
+Social Media:
+
+  - Twitter: [@umap.pro](https://x.com/umap_pro)
+  
+  - Telegram: [@umap.pro](https://t.me/umap_pro)
