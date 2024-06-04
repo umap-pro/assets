@@ -1,4 +1,4 @@
-![logo_umap](https://github.com/umap-pro/assets/assets/171515055/3400267e-a24f-4982-a905-558411128644)
+![UMAP_logo](https://github.com/umap-pro/assets/assets/171515055/24596f0c-4ff3-4c93-b873-662f6a5d7cb5)
 
 
 ----------
